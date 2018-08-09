@@ -1,2 +1,3 @@
 # band
-Simple drum kit application using JavaScript
+
+## Simple drum kit application using JavaScript
